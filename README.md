@@ -1,1 +1,1 @@
-# game-pages
+# https://dimatitov.github.io/game-pages/
